@@ -43,4 +43,4 @@ Finance
 MILLWARD BROWN, KANTAR TNS-MB, KANTAR SASConseil, études de marché et marketing - France CA 167 M€ Effectifs 1200 (Monde : CA 1 G$ - effectif 28500)
 **Comptable fournisseur** juin 2015 - juin 2021 (6 ans 1 mois)Paris, Île-de-France, France
 Rattaché au Responsable de la Comptabilité Fournisseurs Mission : Comptabilisation et paiement des factures fournisseurs, réconciliation bancaire, provisions, imputation sur projet, réconciliation balance âgée / générale.- Aide apportée pour la transition vers la numérisation et au share service qui a permis d'améliorer l'efficacité de 50% : création de procédures, création de répertoires automatisés, support outils.- Création de formules Excel produisant des statistiques : sur les délais de paiement dans le but de limiter les amendes de l'état et sur les flux de trésorerie pour avoir un solde lissé dans l'année. |
-| --- | --- |
+
