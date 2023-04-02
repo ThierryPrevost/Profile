@@ -19,7 +19,7 @@ Concepteur Développeur d'Applications cherchant des solutions nouvelles d'optim
 
 ## Soft skills
 1. ***travail en équipe :*** _aide apportée pour la transition vers la numérisation et au share service qui a permis d'améliorer l'efficacité de 50% : création de procédures, création de répertoires automatisés, support outils._
-2. ***curiosité :*** _création de circuits touristiques (60 pays visités)_
+2. ***curiosité :*** _création de circuits touristiques (60 pays visités):sunglasses:_
 3. ***sens de la communication :*** _aide pour rédiger la DP Spec, sorte de cahier des charges simplifié issu d'un template._
 4. ***capacité d'adaptation :*** _développement en vba Excel de rapports automatisés évitant la saisie manuelle des résultats._
 5. ***sens de l'organisation :*** _création de procédures pour suivre l'évolution du questionnaire papier vers l'électronique._
@@ -46,11 +46,19 @@ Concepteur Développeur d'Applications cherchant des solutions nouvelles d'optim
 
 ```py
 MILLWARD BROWN, KANTAR TNS-MB, KANTAR SAS
-Conseil, études de marché et marketing - France CA 167 M€ Effectifs 1200 (Monde : CA 1 G$ - effectif 28500)
+Conseil, études de marché et marketing
+France CA 167 M€ Effectifs 1200 (Monde : CA 1 G$ - effectif 28500)
 ```
 **Comptable fournisseur** (Paris)<br>
 Rattaché au Responsable de la Comptabilité Fournisseurs<br>
-Mission : Comptabilisation et paiement des factures fournisseurs, réconciliation bancaire, provisions, imputation sur projet, réconciliation balance âgée / générale.
+Mission :
+```diff
++ comptabilisation et paiement des factures fournisseurs
++ réconciliation bancaire
++ provisions
++ imputation sur projet
++ réconciliation balance âgée / générale
+```
  
 |             |                   |
 | ----------- | ----------------- |
@@ -62,8 +70,11 @@ Etudes de marché et sondages à l'international, racheté par TNS puis par KANT
 ```
 **Chargé de traitement des données et scripteur de questionnaires électroniques** (Paris)<br>
 Rattaché au Responsable du traitement informatique<br>
-Mission : Scripting de questionnaire web et traitement des données d'interview.
-
+Mission :
+```diff
++ scripting de questionnaire web 
++ traitement des données d'interview
+```
 
 ## Formation
 
